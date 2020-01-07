@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#form {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#form:last-of-type {
+    margin-top: 50px;
+}
+
+#exampleInputEmail1 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+#exampleInputEmail1:focus {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.list-group-item {
+    border-radius: 20px;
+}
+
+.badge {
+    cursor: pointer;
+}
